@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-your text
+these pretzels are making me thirsty
 use left arrow to go back!
